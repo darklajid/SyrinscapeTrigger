@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyrinscapeTrigger", "SyrinscapeTrigger\SyrinscapeTrigger.csproj", "{EC123035-45F0-4073-8103-609AEB038222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC123035-45F0-4073-8103-609AEB038222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC123035-45F0-4073-8103-609AEB038222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC123035-45F0-4073-8103-609AEB038222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC123035-45F0-4073-8103-609AEB038222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDA97A66-2601-4BE9-9878-20A2C6A1238C}
+	EndGlobalSection
+EndGlobal
